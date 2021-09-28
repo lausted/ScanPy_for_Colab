@@ -2,7 +2,7 @@
 
 ## `install_scanpy.sh`
 ## This script installs required libraries using apt and pip.  
-## Used for processing single-cell transcriptomics at ISB.  
+## Used with Google Colab for processing single-cell transcriptomics at ISB.  
 ## 210929 Christopher Lausted
 
 :> install.log  
