@@ -8,4 +8,5 @@
 :> install.log  
 apt install -q python3-igraph python3-h5py python3-networkx  >> install.log
 pip install -q albumentations==1.0.3  >> install.log
-pip install -q scanpy==1.6.1 scvelo==0.2.3 leidenalg magic-impute bbknn  >> install.log
+pip install -q scanpy==1.7.1 scvelo==0.2.3  >> install.log
+pip install -q leidenalg magic-impute bbknn scrublet  >> install.log
